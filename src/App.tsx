@@ -321,7 +321,6 @@ function App() {
                           <p className="experience-card__organization">{item.organization}</p>
                         </div>
                       </div>
-                      {item.current ? <span className="status-pill"><i /> Ongoing</span> : null}
                     </div>
                     <div className="experience-meta">
                       <span><CalendarDays size={14} /> {item.period}</span>

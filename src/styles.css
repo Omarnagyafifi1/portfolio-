@@ -165,8 +165,6 @@ img { display: block; max-width: 100%; }
 .experience-card__top .eyebrow { font-size: 0.58rem; }
 .experience-card h3 { margin: 5px 0 2px; font-size: 1.12rem; font-weight: 600; }
 .experience-card__organization { margin: 0; color: #adadad; font-size: 0.82rem; }
-.status-pill { display: inline-flex; align-items: center; gap: 7px; padding: 6px 9px; border: 1px solid rgba(255,255,255,0.22); color: #ddd; font-size: 0.6rem; white-space: nowrap; }
-.status-pill i { width: 6px; height: 6px; border-radius: 50%; background: #fff; box-shadow: 0 0 0 3px rgba(255,255,255,0.1); }
 .experience-meta { display: flex; flex-wrap: wrap; gap: 12px 21px; margin-top: 14px; color: #898989; font-size: 0.69rem; }
 .experience-meta span { display: inline-flex; align-items: center; gap: 7px; }
 .experience-meta svg { color: #c9c9c9; }
