@@ -19,7 +19,7 @@ npm run build
 npm run preview
 ```
 
-The static production site is written to `dist/`. Deploy that folder to a static host such as GitHub Pages, Netlify, or Vercel. The contact form prepares a message in the visitor's default email app; it does not submit to a server.
+The static production site is written to `dist/`. GitHub Pages deploys it automatically from `main` through `.github/workflows/pages.yml`. The contact form prepares a message in the visitor's default email app; it does not submit to a server.
 
 ## Update the portfolio
 
