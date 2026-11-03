@@ -1,0 +1,274 @@
+{
+  "identity": {
+    "name": "Omar Nagy",
+    "title": "Data Engineer",
+    "slogan": "DATA FLOWS. IDEAS GROW.",
+    "headline": "Engineering data systems people can rely on.",
+    "intro": "I build Python and SQL workflows, applied machine learning, and AI-powered applications from data preparation through delivery.",
+    "email": "omarnagyafifi1@gmail.com",
+    "phone": "+201003091145",
+    "location": "New Cairo, Egypt",
+    "github": "https://github.com/Omarnagyafifi1",
+    "linkedin": "https://www.linkedin.com/in/omarnagyafifi/",
+    "portrait": "/assets/portrait.jpeg",
+    "cv": "/omar-nagy-cv.pdf"
+  },
+  "about": {
+    "paragraphs": [
+      "I work across data engineering, applied machine learning, and AI-enabled analytics. My recent work includes Python and SQL data workflows, data quality checks, a bilingual Text-to-SQL system, and retrieval-based question answering.",
+      "My engineering background is in Computer Engineering and Automatic Control at Tanta University. Through the NTI HireReady DataOps internship and hands-on projects, I focus on shaping dependable workflows from data preparation through the service people use."
+    ],
+    "languages": [
+      { "name": "Arabic", "level": "Native" },
+      { "name": "English", "level": "Pre-Intermediate" }
+    ]
+  },
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "icon": "code",
+      "items": [
+        { "name": "Python", "logo": "python" },
+        { "name": "C++", "logo": "cplusplus" },
+        { "name": "SQL", "logo": "databases" }
+      ]
+    },
+    {
+      "category": "Databases & SQL",
+      "icon": "database",
+      "items": [
+        { "name": "SQLite", "logo": "sqlite" },
+        { "name": "PostgreSQL", "logo": "postgresql" },
+        { "name": "MySQL", "logo": "mysql" },
+        { "name": "SQL Server", "logo": "microsoftsqlserver" },
+        { "name": "Oracle", "logo": "oracle" },
+        { "name": "Pinecone", "logo": "pinecone" }
+      ]
+    },
+    {
+      "category": "Data Engineering",
+      "icon": "workflow",
+      "items": [
+        { "name": "ETL Pipelines" },
+        { "name": "Data Quality & Validation" },
+        { "name": "Data Modeling" },
+        { "name": "DataOps" },
+        { "name": "Schema Discovery" },
+        { "name": "Query Safety" }
+      ]
+    },
+    {
+      "category": "Data Processing & Analytics",
+      "icon": "chart",
+      "items": [
+        { "name": "Pandas", "logo": "pandas" },
+        { "name": "NumPy", "logo": "numpy" },
+        { "name": "Scikit-learn", "logo": "scikitlearn" },
+        { "name": "XGBoost", "logo": "xgboost" },
+        { "name": "EDA" },
+        { "name": "Feature Engineering" },
+        { "name": "Model Evaluation" }
+      ]
+    },
+    {
+      "category": "Cloud, DevOps & Delivery",
+      "icon": "cloud",
+      "items": [
+        { "name": "Microsoft Azure", "logo": "microsoftazure" },
+        { "name": "Azure Container Apps" },
+        { "name": "Docker", "logo": "docker" },
+        { "name": "GitHub Actions", "logo": "githubactions" },
+        { "name": "CI/CD" },
+        { "name": "Git", "logo": "git" }
+      ]
+    },
+    {
+      "category": "AI & Machine Learning",
+      "icon": "brain",
+      "items": [
+        { "name": "RAG" },
+        { "name": "LangGraph" },
+        { "name": "Sentence Transformers", "logo": "huggingface" },
+        { "name": "Semantic Search" },
+        { "name": "LLM Integration" },
+        { "name": "Supervised & Unsupervised Learning" }
+      ]
+    },
+    {
+      "category": "Frameworks & Development Tools",
+      "icon": "layers",
+      "items": [
+        { "name": "FastAPI", "logo": "fastapi" },
+        { "name": "Flask", "logo": "flask" },
+        { "name": "Django", "logo": "django" },
+        { "name": "React", "logo": "react" },
+        { "name": "Next.js", "logo": "nextdotjs" },
+        { "name": ".NET 8" },
+        { "name": "REST APIs" }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "DataOps Intern",
+      "organization": "National Telecommunication Institute (NTI) HireReady",
+      "brandMark": "NTI",
+      "type": "Internship & practical training",
+      "period": "Oct 2026 – Jan 2027",
+      "location": "Giza, Egypt",
+      "current": true,
+      "description": "Four-month, industry-aligned program with 120 hours of in-company practical training.",
+      "contributions": [
+        "Built Python and SQL workflows and ETL pipelines to prepare data from multiple sources.",
+        "Added automated data cleaning and validation checks to improve consistency.",
+        "Designed database structures and data models, with scheduling, monitoring, and error handling for workflows."
+      ],
+      "technologies": ["Python", "SQL", "ETL", "Data Quality", "Data Modeling"]
+    },
+    {
+      "role": "Machine Learning Trainee",
+      "organization": "Digital Egypt Pioneers Initiative (DEPI) — Microsoft Track",
+      "brandMark": "DEPI",
+      "type": "Training program",
+      "period": "Nov 2025 – Jul 2026",
+      "location": "Remote",
+      "current": false,
+      "description": "Applied machine learning training through the national DEPI program.",
+      "contributions": [
+        "Applied data preprocessing, feature engineering, and model evaluation to machine learning tasks.",
+        "Built experience with supervised and unsupervised learning workflows."
+      ],
+      "technologies": ["Python", "Machine Learning", "Data Preprocessing", "Model Evaluation"]
+    },
+    {
+      "role": "Machine Learning Trainee",
+      "organization": "Creativa Innovation Hub",
+      "brandMark": "C",
+      "brandLabel": "CREATIVA",
+      "type": "Training program",
+      "period": "Aug 2025 – Sep 2025",
+      "location": "Mansoura, Egypt",
+      "current": false,
+      "description": "Hands-on machine learning training focused on classification and regression.",
+      "contributions": [
+        "Performed exploratory data analysis and feature engineering.",
+        "Used cross-validation and hyperparameter tuning to compare model performance."
+      ],
+      "technologies": ["Scikit-learn", "EDA", "Feature Engineering", "Cross-Validation"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "datapilot",
+      "name": "DataPilot AI",
+      "subtitle": "Agentic Text-to-SQL Data Analyst",
+      "featured": true,
+      "image": "/assets/datapilot-ai.png",
+      "imageAlt": "DataPilot AI database analyst interface in its initial state",
+      "summary": "A bilingual English and Arabic data analyst that turns natural-language questions into safe SQL, query results, visualizations, and insights.",
+      "problem": "Users need to explore several database engines without writing every query by hand, while keeping generated SQL understandable and controlled.",
+      "solution": "A LangGraph workflow routes requests, filters schema context, generates and executes SQL, validates results, retries failures, and builds charts and written insights.",
+      "role": "The CV describes Omar's work across the agent workflow, provider integration, query safeguards, and full-stack deployment.",
+      "architecture": [
+        "Question in English or Arabic",
+        "Intent routing and schema filtering",
+        "SQL generation, execution, validation, and retry",
+        "Query result, visualization, and insight"
+      ],
+      "features": [
+        "Connects to SQLite, PostgreSQL, MySQL, SQL Server, and Oracle.",
+        "Retries and repairs failed SQL up to three times.",
+        "Requires human approval for write operations and blocks selected destructive commands.",
+        "Supports CSV ingestion, chart generation, and bilingual insights.",
+        "Uses Azure OpenAI with Groq, Gemini, and OpenRouter provider options."
+      ],
+      "results": [
+        "Deployed on Azure Container Apps with bilingual English and Arabic text-to-SQL workflows.",
+        "Delivers guarded SQL execution, failed-query repair, approval for write operations, and chart output."
+      ],
+      "technologies": ["LangGraph", "FastAPI", "React", "Azure Container Apps", "GitHub Actions", "SQLAlchemy", "Plotly"],
+      "repository": "https://github.com/Omarnagyafifi1/datapilot-ai",
+      "demo": "https://ca-datapilot.lemondesert-cbde89d5.italynorth.azurecontainerapps.io"
+    },
+    {
+      "id": "houseprice",
+      "name": "HousePrice AI",
+      "subtitle": "Smart Real Estate Valuation",
+      "featured": true,
+      "image": "/assets/house-price-ai.png",
+      "imageAlt": "HousePrice AI prediction interface for housing features",
+      "summary": "An end-to-end housing price prediction application with an XGBoost model, Flask REST API, and Next.js frontend.",
+      "problem": "Turn property features into a useful median house-value estimate through a straightforward web experience.",
+      "solution": "A scikit-learn preprocessing pipeline prepares housing features for the XGBoost model, which is served through a Flask prediction API and a Next.js interface.",
+      "role": "The CV and repository identify Omar as the project author, building the model pipeline, prediction API, and user interface.",
+      "architecture": [
+        "Housing features entered in the web interface",
+        "Flask API validates the request and loads the preprocessing pipeline",
+        "XGBoost model produces a prediction",
+        "Frontend displays the estimated median house value"
+      ],
+      "features": [
+        "Reusable preprocessing with imputation, scaling, and one-hot encoding.",
+        "Hyperparameter tuning with GridSearchCV and cross-validation.",
+        "REST endpoints for prediction and model metadata.",
+        "Responsive Next.js interface with a live prediction form."
+      ],
+      "results": [
+        "Connects the Next.js property form to a Flask prediction API and an XGBoost model.",
+        "Uses reusable preprocessing for missing values, numeric scaling, and categorical features."
+      ],
+      "technologies": ["XGBoost", "Scikit-learn", "Flask", "Next.js 15", "TypeScript", "Tailwind CSS", "GridSearchCV"],
+      "repository": "https://github.com/Omarnagyafifi1/HousePriceAI",
+      "demo": ""
+    },
+    {
+      "id": "medical-rag",
+      "name": "Medical Question Answering Chatbot",
+      "subtitle": "Retrieval-Augmented Generation",
+      "featured": false,
+      "visual": "rag-flow",
+      "imageAlt": "Diagram showing medical document retrieval and answer generation",
+      "summary": "A medical Q&A prototype that retrieves relevant passages from medical PDFs before generating a response.",
+      "problem": "General-purpose models may answer medical questions without grounding the response in the supplied documents.",
+      "solution": "A document pipeline chunks medical PDFs, generates embeddings, stores them in Pinecone, retrieves relevant context, and passes that context to a Groq-hosted LLM.",
+      "role": "The CV and repository identify Omar as the author of the RAG pipeline and Flask web interface.",
+      "architecture": [
+        "Medical PDFs",
+        "Load, split, and embed documents",
+        "Pinecone semantic retrieval",
+        "Groq LLM response in Flask chat interface"
+      ],
+      "features": [
+        "PDF document ingestion and chunking.",
+        "Sentence embeddings with all-MiniLM-L6-v2.",
+        "Semantic search using Pinecone.",
+        "Flask interface backed by a Python API."
+      ],
+      "results": [
+        "Built a document-to-answer prototype with PDF ingestion, semantic retrieval, and Groq-backed generation.",
+        "Relevance and faithfulness are listed as evaluation dimensions; no numerical scores are published."
+      ],
+      "technologies": ["RAG", "LangChain", "Pinecone", "Sentence Transformers", "Groq", "Flask"],
+      "repository": "https://github.com/Omarnagyafifi1/EnglishMedicalChatbot",
+      "demo": ""
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Science in Computer Engineering and Automatic Control",
+    "institution": "Faculty of Engineering, Tanta University",
+    "location": "Tanta, Egypt",
+    "graduationYear": "2026",
+    "grade": "Excellent with Honors"
+  },
+  "certifications": [
+    {
+      "name": "Programming Fundamentals Diploma",
+      "issuer": "Route IT Training Center",
+      "date": "17 December 2023",
+      "kind": "Diploma",
+      "preview": "/certificates/route-programming-fundamentals-preview.png",
+      "file": "/certificates/route-programming-fundamentals.pdf",
+      "skills": ["Programming Fundamentals"]
+    }
+  ]
+}
